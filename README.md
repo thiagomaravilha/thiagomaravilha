@@ -5,7 +5,7 @@
 ### Ola!!
 Desenvolvedor BackEnd em Python e Node.js.
 </br>
-Atualmente cursando o 7º período de Sistemas de Informação na Universidade Federal de Ouro Preto. Forte aptidão para trabalho em equipe e uma postura assertiva na coordenação de atividades de desenvolvimento, sempre com foco no alcance das metas estabelecidas.
+Cursando o 7º período de Sistemas de Informação na Universidade Federal de Ouro Preto. Forte aptidão para trabalho em equipe e uma postura assertiva na coordenação de atividades de desenvolvimento, sempre com foco no alcance das metas estabelecidas.
 <hr>
 <h4>Back-end:</h4>
 <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"></a>
