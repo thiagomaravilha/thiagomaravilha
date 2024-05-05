@@ -4,7 +4,7 @@
 </br>
 <h4>About me</h4>
 Graduating in Information Systems at Universidade Federal de Ouro Preto(UFOP).</br>
-Lover of technology, programming, open source, books, games and rap!!
+Lover of technology, programming, open source, books and games!!
 <hr>
 
 ### Knowledge areas 🛠
