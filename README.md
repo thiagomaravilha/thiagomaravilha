@@ -1,3 +1,5 @@
+
+
 ### Hi there, I'm Thiago L. Maravilha 👋
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagomaravilha)
@@ -5,12 +7,12 @@
 <h4>About me</h4>
 Graduating in Information Systems at Universidade Federal de Ouro Preto(UFOP).</br>
 <hr>
-
+<!-- 
 ### Knowledge areas 🛠
 <h4>Main skills:</h4>
 <a href="https://www.learn-c.org/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"></a>
-<!-- isso é pra comentar -->
+<!-- isso é pra comentar 
 <br>
 <h4>Hands-on Experience:</h4>
 <a href="https://www.php.net/" rel="nofollow"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="nodejs" width="40" height="40" style="max-width: 100%;"></a>
@@ -25,6 +27,7 @@ Graduating in Information Systems at Universidade Federal de Ouro Preto(UFOP).</
 <a href="https://www.photoshop.com/en" rel="nofollow">
 <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"></a>
 
+ Este é um comentário invisível no README.md -->
  <br>
  <!-- 
    
