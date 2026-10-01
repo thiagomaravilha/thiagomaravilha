@@ -5,7 +5,8 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagomaravilha)
 </br>
 <h4>About me</h4>
-Graduating in Information Systems at Universidade Federal de Ouro Preto(UFOP).</br>
+- 💻 Developer at Synergia (UFMG). </br>
+- 🎓 B.S. in Information Systems – Universidade Federal de Ouro Preto (UFOP). </br>
 <hr>
 <!-- 
 ### Knowledge areas 🛠
